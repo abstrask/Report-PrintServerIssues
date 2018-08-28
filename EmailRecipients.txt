@@ -1,0 +1,2 @@
+recipient1@domain.tld
+recipient2@domain.tld

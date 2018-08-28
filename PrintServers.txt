@@ -1,0 +1,3 @@
+print1.ad.domain.tld
+print2.ad.domain.tld
+print3.ad.domain.tld
